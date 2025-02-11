@@ -115,8 +115,6 @@ This will remove:
 - **Use Parquet Format**: Reduce query costs by converting data to Parquet.
 - **Data Visualization**: Connect Athena to QuickSight or Tableau for analysis.
 
-## License
-This project is licensed under the **MIT License**.
 
 ---
 Contributions and feedback are welcome! 🚀
